@@ -1,0 +1,7 @@
+*修改文件内容之后，利用 $ git status 查看仓库当前的状态，文件修改过但没有提交
+
+*利用 $ git diff 查看所修改的内容
+
+*提交到仓库
+    1.利用 $ git add 文件 将文件放置暂存区
+    2.利用 $ git commit -m "add distributed" 将文件存储到仓库
