@@ -4,4 +4,4 @@
 
 *提交到仓库
     1.利用 $ git add 文件 将文件放置暂存区
-    2.利用 $ git commit -m "add distributed" 将文件存储到仓库
+    2.利用 $ git commit -m "文件" 将文件存储到仓库
