@@ -1,0 +1,17 @@
+在所需文件夹下打开git
+
+利用 $ mkdir 建立空目录
+利用 $ cd 打开所建空目录
+利用 $pwd 查看当前目录
+
+* git工作区域
+  
+  工作区
+    利用 $ touch 建立所需文件 
+	
+  暂存区
+     利用 $ git add 文件 添加到暂存区
+	 
+  git repository
+     利用 $ git commit -m "文件" 将文件提交到仓库
+  
